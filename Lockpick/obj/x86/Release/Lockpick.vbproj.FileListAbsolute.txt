@@ -1,0 +1,9 @@
+F:\Lockpick\Lockpick\bin\Release\Lockpick.exe
+F:\Lockpick\Lockpick\bin\Release\Lockpick.pdb
+F:\Lockpick\Lockpick\bin\Release\Lockpick.xml
+F:\Lockpick\Lockpick\obj\x86\Release\Lockpick.Form1.resources
+F:\Lockpick\Lockpick\obj\x86\Release\Lockpick.Resources.resources
+F:\Lockpick\Lockpick\obj\x86\Release\Lockpick.vbproj.GenerateResource.Cache
+F:\Lockpick\Lockpick\obj\x86\Release\Lockpick.exe
+F:\Lockpick\Lockpick\obj\x86\Release\Lockpick.xml
+F:\Lockpick\Lockpick\obj\x86\Release\Lockpick.pdb
